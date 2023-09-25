@@ -10,4 +10,4 @@
 6. [Fine-tune ruRoberta](https://www.kaggle.com/code/dezzpil/md-6-fine-tune-ruroberta)
 7. [Предсказания ruRoberta](https://www.kaggle.com/code/dezzpil/md-7-ruroberta)
 8. [Комбинация и оптимизация](https://www.kaggle.com/code/dezzpil/md-8-final)
-9. [Все вместе, pipelin](https://www.kaggle.com/code/dezzpil/md-9-pipeline)
+9. [Все вместе, pipeline](https://www.kaggle.com/code/dezzpil/md-9-pipeline)
